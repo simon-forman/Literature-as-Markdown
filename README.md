@@ -15,6 +15,7 @@ Other excellent resources for classic books:
 
 ***
 ## Properties
+### Literature Properties
 
 | Name of Property    | Description                                                                                                                                                                                                                                                      |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,6 +36,16 @@ Other excellent resources for classic books:
 | translator          | Name of translator(s) of current version. (Ignore if ‘Language’ == ‘Original Language’)                                                                                                                                                                          |
 | series              | Name of the series that work is part of. (If applies.)                                                                                                                                                                                                           |
 | editor              | Name of the editor(s). (If applies.)                                                                                                                                                                                                                             |
-| note                | Any aditionnal comments.                                                                                                                                                                                                                                         |
+| note                | Any additional comments.                                                                                                                                                                                                                                        |
 
+### Bibliography Properties
 
+| Name of Property | Description                                                                                                                                                                                                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| name             | Full name of the author. Inverted order (“_Austen, Jane_”) for western names.                                                                                                                                                                                                         |
+| life-time        | Date of birth and date of death connected with a en-dash `–`. <br>ISO 8601 format without separators. <br>YYYY MM DD <br>(_1775 10 16 – 1817 07 18_)<br>%% I have no idea what to do with BC dates. How do you sort them so they are descending while in the AD date are ascending?%% |
+| nationality      | Country of origin.                                                                                                                                                                                                                                                                    |
+| common-genres    | Genres that the author commonly written in.                                                                                                                                                                                                                                           |
+| common-themes    | Usual themes for the author.                                                                                                                                                                                                                                                          |
+| biography        | Short history of the author.                                                                                                                                                                                                                                                                                      |
+| note             | Any additional comments.                                                                                                                                                                                                                                                              |
