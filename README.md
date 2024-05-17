@@ -2,7 +2,7 @@
 
 A collection of classic literature presented in markdown format. All titles from the public domain.
 
-This is my own spin on [mlschmitt](https://github.com/mlschmitt)’s amazing collection.
+This is my own spin on [mlschmitt](https://github.com/mlschmitt)’s amazing collection.   
 My attempt is to make this library compatible with [Obsidian.md](https://obsidian.md/).
 
 To-Do:
@@ -15,7 +15,8 @@ Other excellent resources for classic books:
 * [Project Gutenberg](http://www.gutenberg.org/)
 
 
-[[List of Authors]]
+[[List of Authors]]   
+Important Note! These files are meant to be used in [Obsidian.md](https://obsidian.md/), the wikiLinks are not functional on Github.   
 
 ***
 ## Properties
