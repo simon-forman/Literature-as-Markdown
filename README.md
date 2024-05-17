@@ -12,10 +12,9 @@ To-Do:
 
 Other excellent resources for classic books:
 * [Standard Ebooks](https://standardebooks.org/)
-* [Project Gutenberg](http://www.gutenberg.org/)
+* [Project Gutenberg](http://www.gutenberg.org/)   
   
-
-[[List of Authors]]   
+[[Bibliography Catalogue]]   
 Important Note! These files are meant to be used in [Obsidian.md](https://obsidian.md/), the WikiLinks are not functional on Github.   
 
 ***
@@ -27,7 +26,7 @@ Metadata in the individual literature files.
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | aliases             | [Obsidian] Alternative names for the file when linking.                                                                                                                                                                                                          |
 | tags                | [Obsidian] Tags for the file.                                                                                                                                                                                                                                    |
-| prefer-view         | [Obsidian] Sets the default view to Read. (Require ‘[Set View Mode per Note](obsidian://show-plugin?id=frontmatter-viewmode)’ plugin.)                                                                                                                           |
+| prefer-view         | [Obsidian] Sets the default view to Read. (Requires ‘[Set View Mode per Note](obsidian://show-plugin?id=frontmatter-viewmode)’ plugin.)                                                                                                                          |
 | title               | The title of the book.                                                                                                                                                                                                                                           |
 | full-title          | The full title, including sub-titles.                                                                                                                                                                                                                            |
 | short-title         | A shortened version of the title.                                                                                                                                                                                                                                |
@@ -42,7 +41,7 @@ Metadata in the individual literature files.
 | translator          | Name of translator(s) of current version. (Ignore if ‘Language’ == ‘Original Language’)                                                                                                                                                                          |
 | series              | Name of the series that work is part of. (If applies.)                                                                                                                                                                                                           |
 | editor              | Name of the editor(s). (If applies.)                                                                                                                                                                                                                             |
-| note                | Any additional comments.                                                                                                                                                                                                                                        |
+| note                | Any additional comments.                                                                                                                                                                                                                                         |
 
 ### Bibliography Properties
 Metadata in the bibliography file.
