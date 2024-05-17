@@ -14,8 +14,9 @@ To-Do:
 
 [[Bibliography Catalogue]]   
 Important Note! These files are meant to be used in [Obsidian.md](https://obsidian.md/), the WikiLinks are not functional on Github.   
-  
-<p class="callout danger"><b>JSYK</b><br>I’m not a developer. The main purpose of this project is for me to learn git and GitHub.</p>
+
+> [!WARNING]
+> I’m not a developer. The main purpose of this project is for me to learn git and GitHub.
 
 ***
 ## Properties
