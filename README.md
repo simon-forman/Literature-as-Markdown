@@ -13,10 +13,10 @@ To-Do:
 Other excellent resources for classic books:
 * [Standard Ebooks](https://standardebooks.org/)
 * [Project Gutenberg](http://www.gutenberg.org/)
-
+  
 
 [[List of Authors]]   
-Important Note! These files are meant to be used in [Obsidian.md](https://obsidian.md/), the wikiLinks are not functional on Github.   
+Important Note! These files are meant to be used in [Obsidian.md](https://obsidian.md/), the WikiLinks are not functional on Github.   
 
 ***
 ## Properties
