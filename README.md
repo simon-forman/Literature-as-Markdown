@@ -5,6 +5,7 @@ A collection of classic literature presented in markdown format. All titles from
 This is my own spin on [mlschmitt](https://github.com/mlschmitt)’s amazing collection.   
 My attempt is to make this library compatible with [Obsidian.md](https://obsidian.md/).
 
+
 To-Do:
 - [ ] Insert yaml metadata.
 - [ ] Create bibliography for the authors.
@@ -16,6 +17,9 @@ Other excellent resources for classic books:
   
 [[Bibliography Catalogue]]   
 Important Note! These files are meant to be used in [Obsidian.md](https://obsidian.md/), the WikiLinks are not functional on Github.   
+
+> [!attention] JSYK
+>  I’m not a developer. The main purpose of this project is for me to learn git and GitHub.
 
 ***
 ## Properties
